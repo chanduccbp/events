@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.bg-cont {
+  min-height: 100vh;
+  display: flex;
+}
+
+.e-cont {
+  background-color: #3a4b63;
+  width: 55%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #ffffff;
+  font-family: 'roboto';
+}
+
+.events {
+  width: 100%;
+  padding-left: 0px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}

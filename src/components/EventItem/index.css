@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.e-card {
+  width: 45%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #ffffff;
+  font-family: 'roboto';
+}
+
+.aButt {
+  border: solid 1px #2dd4bf;
+  border-radius: 5px;
+  width: 100%;
+  padding: 0px;
+  background-color: transparent;
+}
+
+.butt {
+  border-style: none;
+  border-radius: 5px;
+  width: 100%;
+  padding: 0px;
+  background-color: transparent;
+}
+
+.e-img {
+  width: 100%;
+}
